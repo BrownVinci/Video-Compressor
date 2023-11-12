@@ -1,6 +1,6 @@
 # Video Compressor
 
-<a href="https://colab.research.google.com/github/BrownVinci/Video-Compressor/blob/main/Video_Compressor.ipynb" target="_parent"><center><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></center></a>
+<a href="https://colab.research.google.com/github/BrownVinci/Video-Compressor/blob/main/Video_Compressor.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 <b>use_dir:</b> The directory to use, either "MyDrive" or "Shareddrives".<br>
 <b>file_path:</b> The path to the video file you want to compress.<br>
