@@ -1,5 +1,7 @@
 # Video Compressor
 
+<a href="https://colab.research.google.com/github/BrownVinci/Video-Compressor/blob/main/Video_Compressor.ipynb" target="_parent"><center><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></center></a>
+
 <b>use_dir:</b> The directory to use, either "MyDrive" or "Shareddrives".<br>
 <b>file_path:</b> The path to the video file you want to compress.<br>
 <b>resolution:</b> The desired resolution for the compressed video, options include <code>"240p," "360p," "480p," "720p," or "1080p"</code>.<br>
